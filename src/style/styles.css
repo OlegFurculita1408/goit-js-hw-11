@@ -107,7 +107,7 @@ button.hidden{
 }
   
 .load-more{
-  background-color: rgb(186, 160, 211);
+  background-color: rgb(38, 111, 97);
   padding: 10px 15px;
   width: 130px;
   font-size: 17px;
@@ -123,7 +123,7 @@ button.hidden{
 }
 
 .load-more:hover{
-  background-color: rgb(179, 138, 216);
+  background-color: rgb(25, 61, 54);
 }
 
 .search {
